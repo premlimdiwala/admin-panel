@@ -1,0 +1,476 @@
+@media (max-width: 1400px) {
+    .emp {
+        grid-column: span 4;
+    }
+
+    .candidates {
+        grid-column: span 4;
+    }
+
+    .contrys {
+        grid-column: span 4;
+    }
+
+    .recruit {
+        grid-column: span 4;
+    }
+
+    .resume {
+        grid-column: span 4;
+    }
+
+    .subscription {
+        grid-column: span 4;
+    }
+
+    .jobs {
+        grid-column: span 6;
+        grid-row: span 5;
+    }
+
+    .candidates_ratio {
+        grid-column: span 6;
+        grid-row: span 5;
+    }
+}
+
+@media (max-width: 1200px) {
+    .emp {
+        grid-column: span 4;
+    }
+
+    .candidates {
+        grid-column: span 4;
+    }
+
+    .contrys {
+        grid-column: span 4;
+    }
+
+    .recruit {
+        grid-column: span 4;
+    }
+
+    .resume {
+        grid-column: span 4;
+    }
+
+    .subscription {
+        grid-column: span 4;
+    }
+
+    .jobs {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .candidates_ratio {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .overviwe {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .registartion {
+        grid-column: span 12;
+        grid-row: span 2;
+    }
+
+    .regi_contry {
+        grid-column: span 12;
+        grid-row: span 4;
+    }
+
+    .comp {
+        grid-column: span 12;
+        grid-row: span 4;
+    }
+
+    .acquisitions {
+        grid-column: span 12;
+        grid-row: span 4;
+
+    }
+
+    .recent_emp {
+        grid-column: span 12;
+        grid-row: span 5;
+        overflow-y: scroll;
+    }
+    .cart{
+        display: none;
+    }
+    .bell{
+        display: none;
+    }
+    .apps{
+        display: none;
+    }
+    .expand{
+        display: none;
+    }
+    .setting{
+        display: none;
+    }
+    .search1{
+        display: none;
+    }
+}
+
+@media (max-width: 992px) {
+    .emp {
+        grid-column: span 12;
+    }
+
+    .candidates {
+        grid-column: span 12;
+    }
+
+    .contrys {
+        grid-column: span 12;
+    }
+
+    .recruit {
+        grid-column: span 12;
+    }
+
+    .resume {
+        grid-column: span 12;
+    }
+
+    .subscription {
+        grid-column: span 12;
+    }
+
+    .jobs {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .candidates_ratio {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .overviwe {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .registartion {
+        grid-column: span 12;
+        grid-row: span 2;
+    }
+
+    .regi_contry {
+        grid-column: span 12;
+        grid-row: span 4;
+    }
+
+    .comp {
+        grid-column: span 12;
+        grid-row: span 4;
+    }
+
+    .acquisitions {
+        grid-column: span 12;
+        grid-row: span 4;
+
+    }
+
+    .recent_emp {
+        grid-column: span 12;
+        grid-row: span 5;
+        overflow-y: scroll;
+
+    }
+    .cart{
+        display: none;
+    }
+    .bell{
+        display: none;
+    }
+    .apps{
+        display: none;
+    }
+    .expand{
+        display: none;
+    }
+    .setting{
+        display: none;
+    }
+    .search1{
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .emp {
+        grid-column: span 12;
+    }
+
+    .candidates {
+        grid-column: span 12;
+    }
+
+    .contrys {
+        grid-column: span 12;
+    }
+
+    .recruit {
+        grid-column: span 12;
+    }
+
+    .resume {
+        grid-column: span 12;
+    }
+
+    .subscription {
+        grid-column: span 12;
+    }
+
+    .jobs {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .candidates_ratio {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .overviwe {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .registartion {
+        grid-column: span 12;
+        grid-row: span 2;
+    }
+
+    .regi_contry {
+        grid-column: span 12;
+        grid-row: span 4;
+    }
+
+    .comp {
+        grid-column: span 12;
+        grid-row: span 4;
+    }
+
+    .acquisitions {
+        grid-column: span 12;
+        grid-row: span 4;
+
+    }
+
+    .recent_emp {
+        grid-column: span 12;
+        grid-row: span 5;
+        overflow-y: scroll;
+
+    }
+
+    .cart {
+        display: none;
+    }
+
+    .bell {
+        display: none;
+    }
+
+    .apps {
+        display: none;
+    }
+    .expand{
+        display: none;
+    }
+    .setting{
+        display: none;
+    }
+    .search1{
+        display: none;
+    }
+}
+
+@media (max-width: 576px) {
+    .emp {
+        grid-column: span 12;
+    }
+
+    .candidates {
+        grid-column: span 12;
+    }
+
+    .contrys {
+        grid-column: span 12;
+    }
+
+    .recruit {
+        grid-column: span 12;
+    }
+
+    .resume {
+        grid-column: span 12;
+    }
+
+    .subscription {
+        grid-column: span 12;
+    }
+
+    .jobs {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .candidates_ratio {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .overviwe {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .registartion {
+        grid-column: span 12;
+        grid-row: span 2;
+    }
+
+    .regi_contry {
+        grid-column: span 12;
+        grid-row: span 4;
+    }
+
+    .comp {
+        grid-column: span 12;
+        grid-row: span 4;
+    }
+
+    .acquisitions {
+        grid-column: span 12;
+        grid-row: span 4;
+
+    }
+
+    .recent_emp {
+        grid-column: span 12;
+        grid-row: span 5;
+        overflow-y: scroll;
+    }
+
+    .cart {
+        display: none;
+    }
+
+    .bell {
+        display: none;
+    }
+
+    .apps {
+        display: none;
+    }
+    .expand{
+        display: none;
+    }
+    .setting{
+        display: none;
+    }
+    .search1{
+        display: none;
+    }
+}
+
+@media (max-width: 400px) {
+    .emp {
+        grid-column: span 12;
+    }
+
+    .candidates {
+        grid-column: span 12;
+    }
+
+    .contrys {
+        grid-column: span 12;
+    }
+
+    .recruit {
+        grid-column: span 12;
+    }
+
+    .resume {
+        grid-column: span 12;
+    }
+
+    .subscription {
+        grid-column: span 12;
+    }
+
+    .jobs {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .candidates_ratio {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .overviwe {
+        grid-column: span 12;
+        grid-row: span 5;
+    }
+
+    .registartion {
+        grid-column: span 12;
+        grid-row: span 2;
+    }
+
+    .regi_contry {
+        grid-column: span 12;
+        grid-row: span 4;
+    }
+
+    .comp {
+        grid-column: span 12;
+        grid-row: span 4;
+    }
+
+    .acquisitions {
+        grid-column: span 12;
+        grid-row: span 4;
+
+    }
+
+    .recent_emp {
+        grid-column: span 12;
+        grid-row: span 5;
+        overflow-y: scroll;
+    }
+
+    .cart {
+        display: none;
+    }
+
+    .bell {
+        display: none;
+    }
+
+    .apps {
+        display: none;
+    }
+    .expand{
+        display: none;
+    }
+    .setting{
+        display: none;
+    }
+    .search1{
+        display: none;
+    }
+}
